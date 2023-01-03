@@ -13,6 +13,10 @@ Palette:
     padding: 0;
 }
 
+body {
+    font-family: arial, sans-serif;
+}
+
 img {
     width: 100px;
     height: 100px;
